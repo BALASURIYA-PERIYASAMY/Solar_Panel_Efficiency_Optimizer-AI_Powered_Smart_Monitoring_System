@@ -28,38 +28,38 @@ monitoring and historical data visualization.
 
 ### 1. Project Simulation / Hardware Setup
 
-[Solar Panel Project](IMAGES/Screenshot 2026-02-20 132152.png)
+![Solar Panel Project](./IMAGES/Screenshot%2026-02-20%132152.png)
 
 *Complete solar panel monitoring and automatic cleaning Simulation.*
 
 ### 2. Circuit / IoT Simulation
 
-[IoT Simulation](IMAGES/Screenshot 2026-02-20 132222.png)
+![IoT Simulation](./IMAGES/Screenshot%2026-02-20%132222.png)
 
 *ESP32-based IoT circuit and sensor simulation.*
 
 ### 3. Dashbord Output
 
-[Dashbort Output](IMAGES/Screenshot 2026-02-20 133020.png)
+![Dashbort Output](./IMAGES/Screenshot%2026-02-20%133020.png)
 
 *Integration of light, temperature, dust, and power-monitoring Dashbord.*
 
 ### 4. Solar Panel Monitoring Comparition
 
-[Solar Panel Monitoring Comparition](IMAGES/Screenshot 2026-02-20 133037.png)
+![Solar Panel Monitoring Comparition](./IMAGES/Screenshot%2026-02-20%133037.png)
 
 *Monitoring environmental and electrical parameters from the PV panel.*
 
 ### 5. AEGA Efficiency Analysis on AI Prediction
 
-[AEGA Analysis](IMAGES/Screenshot 2026-02-20 133050.png)
+![AEGA Analysis](./IMAGES/Screenshot%2026-02-20%133050.png)
 
 *Expected-versus-actual power analysis using the Adaptive Efficiency Gap
 Algorithm using AI.*
 
 ### 6. Collected Data Set on the Sensors
 
-[DATA Sets](IMAGES/Screenshot 2026-02-20 133133.png)
+![DATA Sets](./IMAGES/Screenshot%2026-02-20%133133.png)
 
 *Relay-controlled water pump activated when the efficiency gap crosses
 the cleaning condition.*
