@@ -26,60 +26,43 @@ monitoring and historical data visualization.
 
 ## 🖼️ Project Images
 
-### 1. Project Prototype / Hardware Setup
+### 1. Project Simulation / Hardware Setup
 
-![Solar Panel Project](images/project_setup.jpg)
+![Solar Panel Project](IMAGES/Screenshot 2026-02-20 132152.png)
 
-*Complete solar panel monitoring and automatic cleaning prototype.*
+*Complete solar panel monitoring and automatic cleaning Simulation.*
 
 ### 2. Circuit / IoT Simulation
 
-![IoT Simulation](images/simulation.jpg)
+![IoT Simulation](IMAGES/Screenshot 2026-02-20 132222.png)
 
 *ESP32-based IoT circuit and sensor simulation.*
 
-### 3. Sensor Integration
+### 3. Dashbord Output
 
-![Sensor Integration](images/sensor_setup.jpg)
+![Dashbort Output](IMAGES/Screenshot 2026-02-20 133020.png)
 
-*Integration of light, temperature, dust, and power-monitoring sensors.*
+*Integration of light, temperature, dust, and power-monitoring Dashbord.*
 
-### 4. Solar Panel Monitoring
+### 4. Solar Panel Monitoring Comparition
 
-![Solar Panel Monitoring](images/panel_monitoring.jpg)
+![Solar Panel Monitoring Comparition](IMAGES/Screenshot 2026-02-20 133037.png)
 
 *Monitoring environmental and electrical parameters from the PV panel.*
 
-### 5. AEGA Efficiency Analysis
+### 5. AEGA Efficiency Analysis on AI Prediction
 
-![AEGA Analysis](images/aega_analysis.jpg)
+![AEGA Analysis](IMAGES/Screenshot 2026-02-20 133050.png)
 
 *Expected-versus-actual power analysis using the Adaptive Efficiency Gap
-Algorithm.*
+Algorithm using AI.*
 
-### 6. Automatic Cleaning System
+### 6. Collected Data Set on the Sensors
 
-![Automatic Cleaning](images/automatic_cleaning.jpg)
+![DATA Sets](IMAGES/Screenshot 2026-02-20 133133.png)
 
 *Relay-controlled water pump activated when the efficiency gap crosses
 the cleaning condition.*
-
-### 7. Flask Web Dashboard
-
-![Flask Dashboard](images/flask_dashboard.jpg)
-
-*Real-time solar panel performance monitoring dashboard.*
-
-### 8. Final Output
-
-![Final Output](images/final_output.jpg)
-
-*Final system output showing monitored parameters and optimization
-results.*
-
-> **Image paths:** Place your 7--8 project/simulation/output images
-> inside an `images/` folder and rename the files to match the paths
-> above.
 
 ------------------------------------------------------------------------
 
